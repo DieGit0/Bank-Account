@@ -1,3 +1,3 @@
-# Bank-Account
+# Bank Account
 
-This project implements a simple CRUD with reading, writing, researching, altering and deleting records using a text file. Some functions will still be improved later.
+This project implements a CRUD from a bank account to account holders. By reading, writing, searching, updating, and deleting records using a text file.
